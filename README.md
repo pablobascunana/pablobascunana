@@ -24,7 +24,7 @@ I work as a part of a Kanban team, on the development of digitization products b
   • **Knowledge of**: Java, MongoDB, YOLOv3, OpenCV<br/>
   • **CI/CD**: Git, YouTrack, Jira, TeamCity<br/>
 
-# Soft Skils
+# Soft Skills
   • Active participation in all software development processes and creation of complete applications from scratch.<br/>
   • Technical support to clients in their integration processes.<br/>
   • Project and team management.<br/>
