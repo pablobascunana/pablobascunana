@@ -4,8 +4,9 @@ Experience in all stages of the software development cycle. During my career I h
 
 # Experience
 
-**Team Leader** at Grupo CMC (Madrid, Spain) – 22-10-2019 – current<br/>
-**Full Stack Developer** at Grupo CMC (Madrid, Spain) – 16-03-2015 – current<br/>
+**Full Stack Developer** at InnoCV (Madrid, Spain) – 02-11-2021 – current<br/>
+**Team Leader** at Grupo CMC (Madrid, Spain) – 22-10-2019 – 05-11-2021<br/>
+**Full Stack Developer** at Grupo CMC (Madrid, Spain) – 16-03-2015 – 05-11-2021<br/>
 
 I work as a part of a Kanban team, on the development of digitization products based on electronic and biometric signature, certified notification, remote customer video identification and videoconference.
 
@@ -19,8 +20,8 @@ I work as a part of a Kanban team, on the development of digitization products b
 
   • **JavaScript Frameworks**: VueJS, AngularJS, Jest, Cypress<br/>
   • **JavaScript UI Frameworks**: Vuetify, Buefy, AngularJS Material, Bootstrap<br/>
-  • **Python**: Flask, WSGI, SQLAlchemy, Requests, Tornado<br/>
-  • **Databases**: MySQL, Oracle<br/>
+  • **Python**: Flask, Django, WSGI, SQLAlchemy, Requests, Tornado, Pandas, Plotly<br/>
+  • **Databases**: MySQL, Oracle, PostgreSQL<br/>
   • **Knowledge of**: Java, MongoDB, YOLOv3, OpenCV<br/>
   • **CI/CD**: Git, YouTrack, Jira, TeamCity<br/>
 
