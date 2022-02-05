@@ -4,7 +4,7 @@ Experience in all stages of the software development cycle. During my career I h
 
 # Experience
 
-**Full Stack Developer** at InnoCV (Madrid, Spain) – 02-11-2021 – current<br/>
+**Full Stack Developer** at INNOCV Solutions (Madrid, Spain) – 02-11-2021 – current<br/>
 **Team Leader** at Grupo CMC (Madrid, Spain) – 22-10-2019 – 05-11-2021<br/>
 **Full Stack Developer** at Grupo CMC (Madrid, Spain) – 16-03-2015 – 05-11-2021<br/>
 
