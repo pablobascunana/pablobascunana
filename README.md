@@ -8,6 +8,21 @@ Experience in all stages of the software development cycle. During my career I h
 **Team Leader** at Grupo CMC (Madrid, Spain) – 22-10-2019 – 05-11-2021<br/>
 **Full Stack Developer** at Grupo CMC (Madrid, Spain) – 16-03-2015 – 05-11-2021<br/>
 
+I work as a part of a Kanbam team, on the development of web applications over Magnolia CMS.
+
+• 12-06-2024 [Magnolia Front-End Developer Certification](https://www.magnolia-cms.com/es_ES/services/education/certification/certified/pablo-bascunana-saiz.html).<br/>
+• Development of WebComponents with LitElement and Storybook.<br/>
+
+I worked as a part of a Scrum team, on the development of renewable energies applications and create from scratch an ETL application.
+
+• Development of RESTful applications in Python with Django using DRF and working with Pandas, Numpy and Jupiter notebooks.<br/>
+• Development of web applications using VueJS using Vue class component library.
+
+I worked as a part of a Scrum team, on the development of renewable energies application.
+
+• Development of RESTful applications in Python with Django.<br/>
+• Development of web applications using VueJS.
+
 I work as a part of a Kanban team, on the development of digitization products based on electronic and biometric signature, certified notification, remote customer video identification and videoconference.
 
 • Video identification WebSocket in Python with Tornado, facial and ID document recognition with OpenCV and YOLOv2 and biometric and liveness detection.<br/>
