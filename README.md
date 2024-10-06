@@ -18,11 +18,6 @@ I worked as a part of a Scrum team, on the development of renewable energies app
 • Development of RESTful applications in Python with Django using DRF and working with Pandas, Numpy and Jupiter notebooks.<br/>
 • Development of web applications using VueJS using Vue class component library.
 
-I worked as a part of a Scrum team, on the development of renewable energies application.
-
-• Development of RESTful applications in Python with Django.<br/>
-• Development of web applications using VueJS.
-
 I work as a part of a Kanban team, on the development of digitization products based on electronic and biometric signature, certified notification, remote customer video identification and videoconference.
 
 • Video identification WebSocket in Python with Tornado, facial and ID document recognition with OpenCV and YOLOv2 and biometric and liveness detection.<br/>
